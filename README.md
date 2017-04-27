@@ -17,6 +17,9 @@
 ### Youtube search by keyword/topic
 `https://github.com/dasdhrub95/cmn-198-youtube/blob/master/yt_api_keyword_ex.py`
 
+### Terminal based youtube player
+`https://github.com/mps-youtube/mps-youtube`
+
 ### Youtube like video
 `https://github.com/dasdhrub95/cmn-198-youtube/blob/master/yt_api_like_video_ex.py`
 
@@ -28,4 +31,6 @@
 
 ### News source, article title and body extraction
 `https://github.com/dasdhrub95/cmn-198-youtube/blob/master/news_api_ex.md`
+
+
 
