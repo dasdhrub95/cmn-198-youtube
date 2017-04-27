@@ -1,16 +1,11 @@
-#News Sources and Top Articles APIs
-
-##Get sources
+## Get sources
 `https://newsapi.org/v1/sources?language=en`
  
-##Get Articles
+## Get Articles
 `https://newsapi.org/v1/articles?source={SOURCE}&sortBy=latest&apiKey={API_KEY}`
 
-#News Body Extractor
+# News Body Extractor
 `http://newspaper.readthedocs.io/en/latest/`
-
-Newspaper3k: Article scraping & curation
-========================================
 
 ```
     >>> from newspaper import Article
