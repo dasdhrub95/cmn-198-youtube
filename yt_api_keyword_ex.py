@@ -1,4 +1,4 @@
-#Keyword Search
+#Python script using youtube api Keyword Search
 #!/usr/bin/python
 
 from apiclient.discovery import build
